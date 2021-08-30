@@ -1,2 +1,2 @@
 # testbot
-This will be my first discord test bot in C#
+This will be my first discord test bot
