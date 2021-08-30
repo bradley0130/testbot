@@ -28,7 +28,7 @@ async def on_ready():
       await message.channel.send('Commands **.help** **.test** **.inspire** and **.info**')
 
     if message.contest.startswith('.info'):
-      await message.channel.send('Im made in Python and you can find all my code here')
+      await message.channel.send('Im made in Python and you can find all my code here: https://github.com/bradley0130/testbot')
     if message.content.startswith('.test'):
       await message.channel.send('Fuck off, bitch!')
 
